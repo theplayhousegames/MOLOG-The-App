@@ -1,0 +1,1 @@
+Account can be deleted in profile settings within app. Upon deletion the firebase will remove your email, username and password with all game contents.
